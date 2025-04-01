@@ -1,5 +1,5 @@
 
-## 💫 Hello! I'm Schneidine:
+## 💫 Hello! I'm Schneidine 🙋🏾‍♀️
 🏝️Haitian-American<br>📚 Computer Science Undergrad at UCF<br>👩🏾‍🍳I love cooking new dishes when I'm not coding<br>💻 Currently Working On: Building a portfolio site using React!
 
 ## 🤖 Tech Stack:
